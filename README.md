@@ -8,7 +8,7 @@ Platform : Windows 32 bit
 Compiler : Turbo C++
 Data-Storage : File
 
-This is a screen/option based program. It creates file to store the data.
+This is a dos based program. It creates file to store the data.
 
 See/Add to Todo list if you would like to contribute.
 
